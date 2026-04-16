@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-👉 [(https://xiangallers.vercel.app/)]
+👉 https://xiangallers.vercel.app/
 
 ---
 
